@@ -1,2 +1,2 @@
 # E-commerce-Website-01
-my first Web site for practice HTML + CSS skills
+Basic E-commerce Website
